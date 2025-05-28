@@ -1,6 +1,6 @@
 # <strong>Hi there, I'm beansxz 👋</strong>
 
-Welcome to my GitHub profile! I am <strong>Vince Ian Escopete</strong>, a passionate developer with a love for coding and technology. Here, you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here, you'll find a collection of my projects and contributions.
 
 ## <strong>💬 About me</strong>
 - 🎓 Bachelor of Science Information Technology student at Computer Communication Development Institute (CCDI).
