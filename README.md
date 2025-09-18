@@ -28,13 +28,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - <strong>PRISAA Sports Management System</strong> (https://github.com/beansxz/prisaasms) (private repo) - An exclusive Sports Management System for PRISAA, Foundation Inc. <br> - Currently on development.
 
 ## <strong>📫 Contact Me</strong>
-- <strong>Email:</strong> vinceianescopete07@gmail.com
+- <strong>Email:</strong> beansxzdev001@gmail.com
 - <strong>Instagram:</strong> https://www.instagram.com/beansyur?igsh=eTVpdTcxM2ZlMGxk
 - <strong>Facebook:</strong> https://www.facebook.com/share/1XpeAF5TxX/
 
 ## <strong>🎉 Fun Facts</strong>
 - I love gaming and coding.
-- I'm a coffee enthusiast ☕.
 
 <strong>Feel free to reach out or check out my projects!</strong>
-
