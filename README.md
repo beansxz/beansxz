@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## <strong>🌟 Projects</strong>
 - <strong>Clinic Appointment System</strong> (https://github.com/beansxz/AppointmentBooking-Escopete) - A clinic appointment system that records patient's scheduled appoinments.
+- <strong>PRISAA Sports Management System</strong> (https://github.com/beansxz/prisaasms) (private repo) - An exclusive Sports Management System for PRISAA, Foundation Inc. <br> - Currently on development.
 
 ## <strong>📫 Contact Me</strong>
 - <strong>Email:</strong> vinceianescopete07@gmail.com
@@ -36,3 +37,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - I'm a coffee enthusiast ☕.
 
 <strong>Feel free to reach out or check out my projects!</strong>
+
