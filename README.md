@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## <strong>💬 About me</strong>
 - 🎓 Bachelor of Science Information Technology student at Computer Communication Development Institute (CCDI).
-- 🎨 Passionate about UX/UI Design & Coding – where creativity meets logic!
+- 🎨 Passionate about UI/UX Design & Coding – where creativity meets logic!
 - 👯 Looking to collaborate on projects that solve real-world problems.
 
 ## <strong>🚀 Skills & 🛠️ Tools</strong>
