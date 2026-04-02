@@ -21,8 +21,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-
-## <strong>📫 Contact Me</strong>
-- <strong>Email:</strong> beansxzdev001@gmail.com
-- <strong>Instagram:</strong> https://www.instagram.com/beansyur?igsh=eTVpdTcxM2ZlMGxk
-- <strong>Facebook:</strong> https://www.facebook.com/share/1XpeAF5TxX/
