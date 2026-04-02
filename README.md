@@ -22,17 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
-
-## <strong>🌟 Projects</strong>
-- <strong>Clinic Appointment System</strong> (https://github.com/beansxz/AppointmentBooking-Escopete) - A clinic appointment system that records patient's scheduled appoinments.
-- <strong>PRISAA Sports Management System</strong> (https://github.com/beansxz/prisaasms) (private repo) - An exclusive Sports Management System for PRISAA, Foundation Inc. <br> - Currently on development.
-
 ## <strong>📫 Contact Me</strong>
 - <strong>Email:</strong> beansxzdev001@gmail.com
 - <strong>Instagram:</strong> https://www.instagram.com/beansyur?igsh=eTVpdTcxM2ZlMGxk
 - <strong>Facebook:</strong> https://www.facebook.com/share/1XpeAF5TxX/
-
-## <strong>🎉 Fun Facts</strong>
-- I love gaming and coding.
-
-<strong>Feel free to reach out or check out my projects!</strong>
