@@ -1,11 +1,11 @@
 # <strong>Hi there, I'm beansxz 👋</strong>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology. Here, you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology.
 
 ## <strong>💬 About me</strong>
-- 🎓 Bachelor of Science Information Technology student at Computer Communication Development Institute (CCDI).
-- 🎨 Passionate about UI/UX Design & Coding – where creativity meets logic!
-- 👯 Looking to collaborate on projects that solve real-world problems.
+- Bachelor of Science Information Technology student at Computer Communication Development Institute (CCDI).
+- Passionate about UI/UX Design & Coding – where creativity meets logic!
+- Looking to collaborate on projects that solve real-world problems.
 
 ## <strong>🚀 Skills & 🛠️ Tools</strong>
 <strong>Tech Stack:</strong> 
