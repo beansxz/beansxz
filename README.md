@@ -2,12 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and technology.
 
-## <strong>💬 About me</strong>
+## <strong>About me</strong>
 - Bachelor of Science Information Technology student at Computer Communication Development Institute (CCDI).
 - Passionate about UI/UX Design & Coding – where creativity meets logic!
 - Looking to collaborate on projects that solve real-world problems.
 
-## <strong>🚀 Skills & 🛠️ Tools</strong>
+## <strong>Skills & Tools</strong>
 <strong>Tech Stack:</strong> 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
