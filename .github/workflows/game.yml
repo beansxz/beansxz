@@ -9,6 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Create dist folder
+        run: mkdir -p dist
       - uses: czl9707/gh-space-shooter@main
         with:
           username: beansxz
