@@ -11,9 +11,9 @@ jobs:
     steps:
       - uses: czl9707/gh-space-shooter@main
         with:
-          github_user_name: beansxz
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_dir: dist
+          username: beansxz
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: dist
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
