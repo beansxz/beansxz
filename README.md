@@ -6,6 +6,7 @@
 </picture>
 
 <br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=3000&pause=1200&color=A0A0A8&background=00000000&center=true&vCenter=true&width=600&height=30&lines=hi+there%2C+welcome+to+my+GitHub+profile!;learn%2C+code%2C+repeat.;passionate+with+building+something+new;web+development+%2B+ai+engineering;">
@@ -13,6 +14,8 @@
 </picture>
 
 </div>
+
+<br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=beansxz&amp;label=visitors&amp;color=737373&amp;style=flat-square" alt="Profile views">
@@ -75,12 +78,15 @@ Full-stack developer building digital experiences that make real-world ideas mat
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=beansxz&show_icons=true&hide_border=true&title_color=F4F4F5&icon_color=A0A0A8&text_color=F4F4F5&bg_color=0C0C0F">
-  <img src="https://github-readme-stats.vercel.app/api?username=beansxz&show_icons=true&hide_border=true&title_color=0A0A0A&icon_color=737373&text_color=0A0A0A&bg_color=FFFFFF" width="48%" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=beansxz&hide_border=true&background=0C0C0F&currStreakLabel=F4F4F5&sideLabels=F4F4F5&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=A0A0A8&">
+  <img src="https://streak-stats.demolab.com?user=beansxz&hide_border=true&background=FFFFFF&ring=737373&fire=737373&currStreakLabel=0A0A0A&sideLabels=0A0A0A&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=737373" width="60%" alt="GitHub streak">
 </picture>
+</p>
+
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beansxz&layout=compact&hide_border=true&title_color=F4F4F5&text_color=F4F4F5&bg_color=0C0C0F">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beansxz&layout=compact&hide_border=true&title_color=0A0A0A&text_color=0A0A0A&bg_color=FFFFFF" width="48%" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=beansxz&langs_count=10&card_width=540&layout=compact&hide_border=true&title_color=F4F4F5&text_color=A0A0A8&bg_color=0C0C0F">
+  <img src="https://github-readme-stats-umber-kappa.vercel.app/api/top-langs/?username=beansxz&langs_count=10&card_width=540&layout=compact&hide_border=true&title_color=0A0A0A&text_color=737373&bg_color=FFFFFF" width="60%" alt="Most used languages">
 </picture>
 </p>
 
@@ -90,6 +96,16 @@ Full-stack developer building digital experiences that make real-world ideas mat
 
 <p align="center">
   <a href="mailto:vinceianescopete07@gmail.com"><img src="https://img.shields.io/badge/Gmail-3A3A42?style=flat-square&logo=gmail&logoColor=F4F4F5" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/vince-ian-escopete-7a8094376/"><img src="https://img.shields.io/badge/LinkedIn-3A3A42?style=flat-square&logo=&logoColor=F4F4F5" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/beansyur/"><img src="https://img.shields.io/badge/Instagram-3A3A42?style=flat-square&logo=instagram&logoColor=F4F4F5" alt="X"></a>
+  <a href="https://www.linkedin.com/in/vince-ian-escopete-7a8094376/"><img src="https://img.shields.io/badge/LinkedIn-3A3A42?style=flat-square&logo=linkedin&logoColor=F4F4F5" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/beansxz/"><img src="https://img.shields.io/badge/Facebook-3A3A42?style=flat-square&logo=facebook&logoColor=F4F4F5" alt="Facebook"></a>
+  <a href="https://www.instagram.com/beansyur/"><img src="https://img.shields.io/badge/Instagram-3A3A42?style=flat-square&logo=instagram&logoColor=F4F4F5" alt="Instagram"></a>
 </p>
+
+<br>
+<br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beansxz/beansxz/output/github-contribution-space-shooter-dark.svg">
+  <img src="https://raw.githubusercontent.com/beansxz/beansxz/output/github-contribution-space-shooter.svg" alt="space shooter" width="100%">
+</picture>
