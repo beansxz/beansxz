@@ -1,0 +1,27 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots-dark" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#f4f4f5" fill-opacity="0.42" />
+    </pattern>
+    <radialGradient id="fade-dark" cx="82%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+    <mask id="mask-dark">
+      <rect width="1200" height="300" fill="url(#fade-dark)" />
+    </mask>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0c0c0f" />
+  <rect width="1200" height="300" fill="url(#dots-dark)" mask="url(#mask-dark)" />
+
+  <text x="64" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#8a8a92">GITHUB.COM/BEANSXZ</text>
+
+  <text x="62" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="66" font-weight="700" letter-spacing="1" fill="#f4f4f5">VINCE IAN ESCOPETE</text>
+
+  <text x="64" y="205" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#a0a0a8"> full-stack developer | wordpress developer | generative ai engineer</text>
+
+  <line x1="64" y1="230" x2="340" y2="230" stroke="#2a2a30" stroke-width="1" />
+
+  <text x="64" y="260" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2" fill="#8a8a92">00 — PROFILE</text>
+</svg>
