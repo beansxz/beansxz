@@ -13,7 +13,7 @@ jobs:
         with:
           username: beansxz
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: dist
+          output-path: dist/github-contribution-space-shooter.gif
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

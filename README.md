@@ -106,6 +106,6 @@ Full-stack developer building digital experiences that make real-world ideas mat
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beansxz/beansxz/output/github-contribution-space-shooter-dark.svg">
-  <img src="https://raw.githubusercontent.com/beansxz/beansxz/output/github-contribution-space-shooter.svg" alt="space shooter" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beansxz/beansxz/output/github-contribution-space-shooter.gif">
+  <img src="https://raw.githubusercontent.com/beansxz/beansxz/output/github-contribution-space-shooter.gif" alt="space shooter" width="100%">
 </picture>
