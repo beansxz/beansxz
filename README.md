@@ -17,9 +17,10 @@
 
 <br>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=beansxz&amp;label=visitors&amp;color=737373&amp;style=flat-square" alt="Profile views">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=beansxz&label=visitors&color=a0a0a8&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=beansxz&label=visitors&color=737373&style=flat-square" alt="Profile views">
+</picture>
 
 ### `01 — about`
 
@@ -79,7 +80,7 @@ Full-stack developer building digital experiences that make real-world ideas mat
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=beansxz&hide_border=true&background=0C0C0F&currStreakLabel=F4F4F5&sideLabels=F4F4F5&currStreakNum=F4F4F5&sideNums=F4F4F5&dates=A0A0A8&">
-  <img src="https://streak-stats.demolab.com?user=beansxz&hide_border=true&background=FFFFFF&ring=737373&fire=737373&currStreakLabel=0A0A0A&sideLabels=0A0A0A&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=737373" width="60%" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=beansxz&hide_border=true&background=FFFFFF&currStreakLabel=0A0A0A&sideLabels=0A0A0A&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=737373" width="60%" alt="GitHub streak">
 </picture>
 </p>
 
@@ -101,7 +102,6 @@ Full-stack developer building digital experiences that make real-world ideas mat
   <a href="https://www.instagram.com/beansyur/"><img src="https://img.shields.io/badge/Instagram-3A3A42?style=flat-square&logo=instagram&logoColor=F4F4F5" alt="Instagram"></a>
 </p>
 
-<br>
 <br>
 <br>
 
